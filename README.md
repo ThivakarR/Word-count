@@ -20,8 +20,8 @@ Anaconda - Python 3.7
 ## PROGRAM:
 ```
 '''Program to count the words in a file
-Developed by: K R HASHISH VIDYA SAGAR
-Register Number: 212222230047
+Developed by: R.THIVAKAR
+Register Number: 212222240109
 '''
 fname=input("enter the file name")
 num_words=0
